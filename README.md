@@ -1,2 +1,2 @@
 # PulseGuard-Uptime
-Uptime Monitoring app Writer in python
+Uptime Monitoring app
